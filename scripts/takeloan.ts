@@ -1,6 +1,6 @@
 import { ethers } from "hardhat";
 async function main() {
-  const contractAddress = "0xf0cf0E2d60ff2f7f6B0a0C114578946777882B8b"; // Replace with the actual contract address
+  const contractAddress = "0xf0cf0E2d60ff2f7f6B0a0C114578946777882B8b";
   const abi = [
 	{
 		"inputs": [
